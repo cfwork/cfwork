@@ -1,0 +1,16 @@
+{
+  "name": "cfwork",
+  "description": "cfwork",
+  "keywords": [
+    "cfwork"
+  ],
+  "env": {
+    "UUID": {
+      "description": "UUID",
+      "value": "379e7ea2-62d7-11eb-ae93-0242ac130002"
+    }
+  },
+  "website": "https://github.com/cfwork/",
+  "repository": "https://github.com/cfwork/cfwork",
+  "stack": "container"
+}
